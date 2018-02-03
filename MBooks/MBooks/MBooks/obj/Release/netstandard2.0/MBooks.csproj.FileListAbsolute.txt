@@ -1,0 +1,12 @@
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\bin\Release\netstandard2.0\MBooks.deps.json
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\bin\Release\netstandard2.0\MBooks.dll
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\bin\Release\netstandard2.0\MBooks.pdb
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.csprojResolveAssemblyReference.cache
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.csproj.CoreCompileInputs.cache
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.AddBookPage.xaml.g.cs
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.App.xaml.g.cs
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.MainPage.xaml.g.cs
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.AssemblyInfoInputs.cache
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.AssemblyInfo.cs
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.dll
+C:\Users\flyinpancake\source\repos\MBooks\MBooks\MBooks\obj\Release\netstandard2.0\MBooks.pdb
